@@ -1,0 +1,55 @@
+# Fichiers binaires et de build
+bin/
+obj/
+
+# Fichiers de publication
+publish/
+
+# Fichiers de configuration utilisateur
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Fichiers de cache et logs
+*.log
+.vscode/
+.vscode/*
+
+# Fichiers de packages NuGet
+packages/
+*.nupkg
+*.snupkg
+.project.json
+.project.lock.json
+.nuget/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de l'IDE
+*.vs/
+.vscode/
+.idea/
+
+# Fichiers de débogage
+*.dmp
+*.pdb
+
+# Fichiers de coverage et autres outils
+coverage/
+.coverage
+
+# Fichiers générés par Azure DevOps ou autres outils CI/CD
+.azure/
+*.azure-pipelines.yml
+
+# Fichiers spécifiques aux OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration locaux
+appsettings.Local.json
+
+# Autres fichiers spécifiques à votre environnement
