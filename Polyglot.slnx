@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Polyglot.API/Polyglot.API.csproj" />
+  <Project Path="Polyglot.Core/Polyglot.Core.csproj" />
+  <Project Path="Polyglot.Gateway/Polyglot.Gateway.csproj" />
 </Solution>
